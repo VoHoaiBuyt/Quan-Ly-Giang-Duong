@@ -1,0 +1,13 @@
+.header-container{
+    background-color: #5664F5;
+}
+.header-container img{
+    width: 100px;
+    height: 100px;
+}
+.bell{
+    font-size: 30px;
+}
+.box-notice{
+    background: linear-gradient(to bottom, #E8F2FF, #EEECFF,#F1E9FF);
+}
